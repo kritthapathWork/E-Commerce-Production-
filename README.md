@@ -1,5 +1,27 @@
-# E-Commerce-Production-
-ออกแบบ และวางโครงสร้างการทำงานโดยยึดหลักความยืดหยุ่นในการต่อยอด พัฒนาระบบในอนาคตได้ง่าย ตามหลัก Production ที่ระบบขนาดใหญ่ทำ
+# E-Commerce-Production
+ออกแบบและวางโครงสร้างระบบให้ยืดหยุ่นต่อการต่อยอด สามารถพัฒนาต่อในอนาคตได้ง่าย ตามแนวทางระบบ Production ขนาดใหญ่
+
+## 📄 โครงสร้างระบบ
+
+### Frontend
+- React.js (JSX, ES6+) พร้อม Component แบบ reusable
+- React Router, Bootstrap + SCSS + Material UI
+- Context API + Custom Hooks
+- Modal CRUD, Pagination, Search & Filter
+
+### Backend
+- Node.js + Express.js พร้อม Controller-Service-Model structure
+- JWT Authentication + Middleware (role-based access)
+- Async/Await MySQL queries + parameterized queries
+- Centralized error handling & logging
+
+### Features
+- Fullstack REST API development
+- Role-Based Access Control (RBAC)
+- Realtime session updates via WebSocket
+- Designed for scalability & maintainability
+
+---
 
 # 📦 Feature ทั้งหมด
 
