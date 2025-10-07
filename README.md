@@ -328,6 +328,29 @@
 - ระบบรองรับการ refresh token เมื่อ Access Token เก่าหมดอายุจะต่อ Access Token ใหม่ในระยะเวลาที่กำหนด
 - ระบบรองรับการ revoke สมาชิกในระบบ
 
+## 🖼️ UI Preview
+
+### 🔸 System Overview Diagram
+<img width="828" height="1072" alt="SystemOverviewDiagram" src="https://github.com/user-attachments/assets/9ba1a197-a27f-430a-bfc0-2103e679d3d2" />
+
+### 🔸 Login Page
+<img width="2559" height="1299" alt="Screenshot 2025-10-07 161012" src="https://github.com/user-attachments/assets/b6e10fce-5b54-4dfa-9b1c-92c434c68afa" />
+
+### 🔸 Homepage Page
+<img width="2559" height="1294" alt="Screenshot 2025-10-07 161310" src="https://github.com/user-attachments/assets/48362c43-a4f6-4bb3-8dbd-dadfc9f7070a" />
+
+### 🔸 Dashboard Overview
+<img width="2559" height="1292" alt="Screenshot 2025-10-07 162723" src="https://github.com/user-attachments/assets/1bfb2b05-c260-4df4-8160-5905272f254a" />
+
+### 🔸 Product CRUD Page
+<img width="2559" height="1294" alt="Screenshot 2025-10-07 162440" src="https://github.com/user-attachments/assets/8ef9b4d4-86d6-4d5e-b16b-bc68a40dc732" />
+
+### 🔸 Product CRUD Modal
+<img width="2559" height="1296" alt="Screenshot 2025-10-07 162604" src="https://github.com/user-attachments/assets/7dd35cc3-95ea-4181-81e1-35dc1144f69b" />
+
+### 🔸 Role Permissions CRUD Page
+<img width="2559" height="1297" alt="Screenshot 2025-10-07 162632" src="https://github.com/user-attachments/assets/cfded5c5-ce44-4f1f-b3f1-3968dfea63be" />
+
 
 
 
