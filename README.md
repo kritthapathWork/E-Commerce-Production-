@@ -336,7 +336,7 @@
 <img width="828" height="1072" alt="SystemOverviewDiagram" src="https://github.com/user-attachments/assets/9ba1a197-a27f-430a-bfc0-2103e679d3d2" />
 
 ### 🔸 Login Page
-<img width="2559" height="1299" alt="Screenshot 2025-10-07 161012" src="https://github.com/user-attachments/assets/b6e10fce-5b54-4dfa-9b1c-92c434c68afa" />
+<img width="2554" height="1298" alt="Screenshot 2025-10-07 161012" src="https://github.com/user-attachments/assets/b7940715-9d3d-403a-84ad-d8a5e5f11171" />
 
 ### 🔸 Homepage Page
 <img width="2559" height="1294" alt="Screenshot 2025-10-07 161310" src="https://github.com/user-attachments/assets/48362c43-a4f6-4bb3-8dbd-dadfc9f7070a" />
